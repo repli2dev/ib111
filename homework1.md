@@ -2,7 +2,7 @@
 
 Termín: 
 
-- skupina 07: 6. 10. 23.59.59
+- skupina 07: 8. 10. 23.59.59
 - skupina 08: 8. 10. 23.59.59
 
 Odevzdání: Odevzdávarna v ISu
