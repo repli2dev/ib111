@@ -9,3 +9,5 @@ K procvičování je k dispozici [sbírka](http://www.fi.muni.cz/IB111/sbirka/).
 ## Úlohy
 
 - [1. domácí úloha](homework1.md)
+- [2. domácí úloha](homework2.md)
+- [3. domácí úloha](homework3.md)
