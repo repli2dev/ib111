@@ -13,3 +13,4 @@ K procvičování je k dispozici [sbírka](http://www.fi.muni.cz/IB111/sbirka/).
 - [3. domácí úloha](homework3.md)
 - [4. domácí úloha](homework4.md)
 - [5. domácí úloha](homework5c.md)
+- [6. domácí úloha](homework6b.md)
